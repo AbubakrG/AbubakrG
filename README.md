@@ -26,7 +26,7 @@ Let's get the formalities out of the way...
 
 - 🧑‍💻 Project: Facebook Marketplace Search Ranking
 - 🇫🇷 French: J'apprends a parler francais (Translation: I am learning to speak in french)
-- 👨‍🦯 Braille: ⠇⠑⠁⠗⠝⠊⠝⠛  ⠞⠕ ⠗⠑⠁⠙ ⠃⠗⠁⠊⠇⠇⠑ (Translation: currently learning to read braille)
+- 👨‍🦯 Braille: ⠇⠑⠁⠗⠝⠊⠝⠛  ⠞⠕ ⠗⠑⠁⠙ ⠃⠗⠁⠊⠇⠇⠑ (Translation: learning to read braille)
 
 ## Some languages used:
 
