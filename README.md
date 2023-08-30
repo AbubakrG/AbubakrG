@@ -3,7 +3,7 @@ AbubakrG/AbubakrG is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-## 👋 Ahoy There! 💂‍♂️🤌
+## 👋 Ahoy There! 💂‍♂️
 
 <img src="https://media.tenor.com/5EHGfEEk9VYAAAAC/tmnt-michelangelo.gif"  width="300" height="200"/>
 
